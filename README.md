@@ -118,16 +118,3 @@ Run the notebook from top to bottom. The dataset path is already configured as:
 ```text
 data/cleaned_workplace_survey.csv
 ```
-
-## Portfolio / resume description
-
-**Employee Workplace Analytics — Python | Pandas | SciPy | Statsmodels | Jupyter**
-
-- Analysed 320 cleaned employee survey responses to investigate burnout, job satisfaction, technology adoption and productivity.
-- Applied Welch's t-test, one-way ANOVA with Tukey HSD, chi-square, Pearson correlation and multiple linear regression.
-- Performed exploratory factor analysis with KMO, Bartlett's test, eigenvalue/scree-plot retention and oblimin rotation.
-- Found that technology adoption and job satisfaction positively predicted productivity, while burnout was a negative predictor.
-
-## Note
-
-This is an academic/portfolio analytics project. The findings describe statistical associations and prediction within the analysed dataset; they should not be interpreted as proof of causation.
