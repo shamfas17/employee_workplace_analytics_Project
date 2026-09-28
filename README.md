@@ -91,30 +91,6 @@ The three factors explained **66.879%** of total variance.
 - Multiple linear regression
 - Exploratory factor analysis
 
-## Project structure
 
-```text
-employee-workplace-analytics/
-├── employee_workplace_analytics.ipynb
-├── data/
-│   └── cleaned_workplace_survey.csv
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
-## How to run
-
-```bash
-git clone <your-github-repository-url>
-cd employee-workplace-analytics
-
-python -m pip install -r requirements.txt
-jupyter notebook employee_workplace_analytics.ipynb
-```
-
-Run the notebook from top to bottom. The dataset path is already configured as:
-
-```text
 data/cleaned_workplace_survey.csv
 ```
